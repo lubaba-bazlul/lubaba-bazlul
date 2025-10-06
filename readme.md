@@ -10,7 +10,7 @@ I bridge the gap between technology and human experience through data-driven, em
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lubaba-bazlul)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lm.bazlul@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/your-resume-link)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Db14O6nQdzqkK_DIqJLtFDBZ8JsUBZ8y/view)
 
 </div>
 
@@ -170,12 +170,21 @@ _Jun 2021 - Nov 2023_
 - Led user research initiatives: focus groups, interviews, surveys, A/B testing, and usability testing
 - Created dynamic dashboards using Tableau and Power BI to analyze market trends and customer behavior
 
-**Quality Assurance Engineer** | bKash Limited  
+**Quality Assurance Engineer** | bKash Limited
 _Mar 2020 - Jun 2021_
 
 - Designed test cases and executed test cycles for bKash Agent app serving 180,000 daily active users
 - Analyzed logs and app metrics using NewRelic to identify issues and improve product performance
 - Contributed to defining fallback strategies for external integrations
+
+**Undergraduate Teaching Assistant** | North South University
+_Jan 2019 - Dec 2019_
+Department of Computer Science and Engineering & Department of Mathematics and Physics
+
+- Graded scripts and source code, providing feedback to students in Pre Calculus and Digital Logic Design courses
+- Assisted faculty with course material preparation and assignment grading
+- Provided personalized and small group assistance to support student learning objectives
+- Proctored exams ensuring testing integrity and supportive environment
 
 ---
 
