@@ -103,10 +103,10 @@ Conducted comprehensive qualitative research exploring challenges faced by femal
 
 **200K+ Monthly Active Users | 138% YoY Growth**
 
-Designed and launched products serving 14 million monthly active users across diverse demographic landscapes in Bangladesh. Utilized quantitative analysis of event stream data, qualitative research (interviews, focus groups, surveys), A/B testing, and usability testing with users of varying digital literacy levels. Created solutions accessible through both smartphone applications and feature codes, addressing the reality that 45% of Bangladeshis lack smartphones and 56% don't use the internet.
+Led product innovation through mixed-method user research and data-driven insights for users with varying digital literacy levels. Conducted interviews, surveys (SurveyMonkey, Typeform), and thematic analysis of event-stream data to develop acceptance criteria and user journeys for bKash app and bKash Agent app. Created solutions accessible through both smartphone applications and feature codes, addressing the reality that 45% of Bangladeshis lack smartphones and 56% don't use the internet.
 
-**Key Achievement:** Led product innovation resulting in 138% YoY growth in user onboarding, 178% in usage, and 125% in revenue  
-**Tech Stack:** NewRelic, Mixpanel, Tableau, Power BI
+**Key Achievement:** Led product innovation resulting in 138% YoY growth in user onboarding, 178% in usage, and 125% in revenue
+**Tech Stack:** NewRelic, Mixpanel, Tableau, Power BI, SurveyMonkey, Typeform
 
 ---
 
@@ -114,10 +114,10 @@ Designed and launched products serving 14 million monthly active users across di
 
 **Industry-First Meta Collaboration**
 
-Led the design and launch of digital payment orchestration across multiple platforms (MyGP, Skitto, GP Website). Pioneered industry-first features including 0-balance recharge capability through Facebook (Meta collaboration), Auto Recharge for recurring payments, Nagad Direct Charge integration, and Subscription Orchestration Layer for OTT platforms. Each product designed with user-centered principles to enhance convenience and ensure seamless connectivity for users with varying digital literacy.
+Led the design and launch of digital payment orchestration across multiple platforms (MyGP, Skitto, GP Website). Pioneered industry-first features including 0-balance recharge capability through Facebook (Meta collaboration), Auto Recharge for recurring payments, Nagad Direct Charge integration, and personalized in-app campaigns through Denodo API integration. Each product designed with user-centered principles to enhance convenience and ensure seamless connectivity for users with varying digital literacy.
 
-**Key Features:** Auto Recharge, 0-balance recharge, One-tap payments, Multi-channel orchestration  
-**Impact:** Enhanced digital financial inclusion across Bangladesh's largest telecom network
+**Key Features:** Auto Recharge, 0-balance recharge, Nagad MFS Integration, Denodo APIs, Multi-channel orchestration
+**Impact:** Achieved 6% drop-off reduction through conversion rate optimization and enhanced digital financial inclusion across Bangladesh's largest telecom network
 
 ---
 
@@ -155,27 +155,35 @@ Led the design and launch of digital payment orchestration across multiple platf
 
 ## 💼 Professional Experience
 
-**Product, Tech & Partnership Lead** | Grameenphone Ltd.  
+**Product, Tech & Partnership Lead** | Grameenphone Ltd.
 _Dec 2023 - Present_
+Payment Orchestration Layer | Digital Channels & Distribution
 
-- Designed and launched Auto Recharge feature, Subscription Orchestration Layer, and Nagad Direct Charge integration
-- Pioneered industry-first 0-balance recharge capability through Facebook (Meta collaboration)
-- Conducted conversion rate optimization through Mixpanel data analysis and usability evaluations
+- Designed and launched Auto Recharge feature enabling recurring recharge orders, enhancing convenience and ensuring uninterrupted connectivity
+- Enabled personalized in-app campaigns by integrating Denodo APIs with curated user journeys for improved engagement
+- Analyzed Mixpanel data for Conversion Rate Optimization achieving 6% drop-off reduction through A/B testing and UI/UX improvements
+- Integrated Nagad Direct Charge for one-tap recharge payments via Nagad MFS wallet, reducing user drop-off
+- Integrated 0-balance recharge solution in MyGP app, Skitto app, and Facebook (Meta collaboration) for emergency scenarios
 
-**Product Owner** | bKash Limited  
+**Product Owner** | bKash Limited
 _Jun 2021 - Nov 2023_
+Product Management, App Operations & Essential Services | Product & Technology Division
 
-- Achieved 138% YoY growth in user onboarding, 178% in usage, and 125% in revenue for products with 200K+ MAU
-- Designed products for 14 million monthly active users with varying digital literacy levels
-- Led user research initiatives: focus groups, interviews, surveys, A/B testing, and usability testing
-- Created dynamic dashboards using Tableau and Power BI to analyze market trends and customer behavior
+- Achieved 138% YoY growth in user onboarding, 178% in usage, and 125% in revenue through data-driven product innovation for 200K+ MAU
+- Developed acceptance criteria and user journeys for bKash app and bKash Agent app using data insights and user studies
+- Conducted mixed-method user research using interviews, surveys (SurveyMonkey, Typeform), and thematic analysis of event-stream data and New Relic logs
+- Applied research outcomes to UI/UX design and API contracts for users with varying digital literacy levels
+- Created dynamic dashboards and data visualizations using Tableau and Power BI to analyze market trends and customer behavior
 
-**Quality Assurance Engineer** | bKash Limited
+**Engineer, Quality Assurance** | bKash Limited
 _Mar 2020 - Jun 2021_
+Research Engineering | Product & Technology Division
 
-- Designed test cases and executed test cycles for bKash Agent app serving 180,000 daily active users
-- Analyzed logs and app metrics using NewRelic to identify issues and improve product performance
-- Contributed to defining fallback strategies for external integrations
+- Reviewed product requirements and API documentation to design comprehensive test cases for bKash Agent app
+- Designed test cases, executed test cycles, tracked bug life cycles, and generated bug reports for high-quality releases
+- Created comprehensive test reports to summarize results and provide insights for future improvement
+- Analyzed logs and app metrics to identify issues and improve overall product performance
+- Defined fallback strategies for external integrations ensuring seamless user experience during service disruptions
 
 **Undergraduate Teaching Assistant** | North South University
 _Jan 2019 - Dec 2019_
@@ -185,6 +193,7 @@ Department of Computer Science and Engineering & Department of Mathematics and P
 - Assisted faculty with course material preparation and assignment grading
 - Provided personalized and small group assistance to support student learning objectives
 - Proctored exams ensuring testing integrity and supportive environment
+- Reviewed students' progress through test scores, homework completion, and class participation
 
 ---
 
